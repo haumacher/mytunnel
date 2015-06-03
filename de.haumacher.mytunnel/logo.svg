@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   inkscape:export-filename="C:\local\home\bhu\tmp\bitmap.png"
+   inkscape:export-xdpi="24.83"
+   inkscape:export-ydpi="24.83"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4021">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4023" />
+      <stop
+         style="stop-color:#800000;stop-opacity:1;"
+         offset="1"
+         id="stop4025" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3822">
+      <stop
+         style="stop-color:#eeeeee;stop-opacity:1;"
+         offset="0"
+         id="stop3824" />
+      <stop
+         style="stop-color:#898989;stop-opacity:1;"
+         offset="1"
+         id="stop3826" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3822"
+       id="radialGradient3828"
+       cx="88.637871"
+       cy="83.79892"
+       fx="88.637871"
+       fy="83.79892"
+       r="32.029115"
+       gradientTransform="matrix(-1.1132172,0.07151372,-0.10723287,-1.6692389,196.29708,215.16559)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3822-6">
+      <stop
+         style="stop-color:#eeeeee;stop-opacity:1;"
+         offset="0"
+         id="stop3824-7" />
+      <stop
+         style="stop-color:#898989;stop-opacity:1;"
+         offset="1"
+         id="stop3826-1" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3822"
+       id="radialGradient3959"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.1132172,0.07151372,-0.10723287,-1.6692389,196.29708,215.16559)"
+       cx="-77.802109"
+       cy="76.454323"
+       fx="-77.802109"
+       fy="76.454323"
+       r="32.029115" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4021"
+       id="radialGradient4027"
+       cx="470.22623"
+       cy="165.95332"
+       fx="470.22623"
+       fy="165.95332"
+       r="33.263017"
+       gradientTransform="matrix(0.71267734,-0.07172499,0.07420672,0.73733568,122.7918,77.316991)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4021"
+       id="radialGradient4029"
+       cx="470.22623"
+       cy="165.95332"
+       fx="470.22623"
+       fy="165.95332"
+       r="33.263017"
+       gradientTransform="matrix(0.70462125,-0.05330637,0.04879887,0.64503907,130.7965,83.973003)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4021"
+       id="radialGradient4031"
+       cx="470.22623"
+       cy="165.95332"
+       fx="470.22623"
+       fy="165.95332"
+       r="33.263017"
+       gradientTransform="matrix(0.71566529,0.02960916,-0.03050575,0.7373357,138.76417,29.667014)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="136.91075"
+     inkscape:cy="953.90506"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3780"
+       d="m 139.84316,132.20242 -98.84116,0 0,-49.529601 c 0,-64.206278 98.84116,-64.284384 98.84116,0.68166 z"
+       style="fill:#f1d66e;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-ydpi="24.832891"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-inactive.png" />
+    <path
+       style="fill:url(#radialGradient3828);fill-opacity:1;stroke:#000000;stroke-width:0.99999994000000003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 121.95114,132.02384 -63.05667,0 0,-47.718461 c 0,-42.665678 63.42061,-43.808844 63.05667,0.49195 z"
+       id="path2987"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-inactive.png"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-ydpi="24.832891" />
+    <g
+       id="g3764"
+       transform="translate(-283.71257,-63.80294)"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-inactive.png"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-ydpi="24.832891">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path2994"
+         d="m 324.00643,147.77058 38.63834,-18.68783 c 6.49859,-3.75197 12.74345,3.64199 7.57614,9.59645 l -26.64278,33.96638"
+         style="fill:#24af00;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0.49138279,0,0,0.49138302,101.53187,79.608351)"
+         sodipodi:open="true"
+         sodipodi:end="9.4238769"
+         sodipodi:start="3.1800352"
+         d="m 440.95323,164.82745 c 0.62181,-16.16691 14.23175,-28.76871 30.39866,-28.14691 16.16691,0.62181 28.76871,14.23175 28.1469,30.39866 -0.6218,16.16691 -14.23174,28.76871 -30.39865,28.1469 -15.71896,-0.60457 -28.15436,-13.51581 -28.16854,-29.24638"
+         sodipodi:ry="29.294424"
+         sodipodi:rx="29.294424"
+         sodipodi:cy="165.95332"
+         sodipodi:cx="470.22601"
+         id="path2992"
+         style="fill:#008000;fill-opacity:1;stroke:#86f020;stroke-width:7.93678427;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:3.90000017"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3768"
+       transform="matrix(-1,0,0,1,464.64139,-63.80294)"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-inactive.png"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-ydpi="24.832891">
+      <path
+         style="fill:#24af00;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 324.00643,147.77058 38.63834,-18.68783 c 6.49859,-3.75197 12.74345,3.64199 7.57614,9.59645 l -26.64278,33.96638"
+         id="path3770"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#008000;fill-opacity:1;stroke:#86f020;stroke-width:7.93678427;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:3.90000017"
+         id="path3772"
+         sodipodi:cx="470.22601"
+         sodipodi:cy="165.95332"
+         sodipodi:rx="29.294424"
+         sodipodi:ry="29.294424"
+         d="m 440.95323,164.82745 c 0.62181,-16.16691 14.23175,-28.76871 30.39866,-28.14691 16.16691,0.62181 28.76871,14.23175 28.1469,30.39866 -0.6218,16.16691 -14.23174,28.76871 -30.39865,28.1469 -15.71896,-0.60457 -28.15436,-13.51581 -28.16854,-29.24638"
+         sodipodi:start="3.1800352"
+         sodipodi:end="9.4238769"
+         sodipodi:open="true"
+         transform="matrix(0.49138279,0,0,0.49138302,101.53187,79.608351)" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 41.05148,116.29252 18.16261,-0.12627"
+       id="path3802"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-inactive.png"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-ydpi="24.832891" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 122.27161,121.26931 17.39603,-0.4311"
+       id="path3806"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-inactive.png"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-ydpi="24.832891" />
+    <g
+       transform="matrix(-0.66845074,-0.74375642,-0.74375642,0.66845074,434.84743,267.19264)"
+       id="g3774"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-inactive.png"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-ydpi="24.832891">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3776"
+         d="m 324.00643,147.77058 38.63834,-18.68783 c 6.49859,-3.75197 12.74345,3.64199 7.57614,9.59645 l -26.64278,33.96638"
+         style="fill:#24af00;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0.49138279,0,0,0.49138302,101.53187,79.608351)"
+         sodipodi:open="true"
+         sodipodi:end="9.4238769"
+         sodipodi:start="3.1800352"
+         d="m 440.95323,164.82745 c 0.62181,-16.16691 14.23175,-28.76871 30.39866,-28.14691 16.16691,0.62181 28.76871,14.23175 28.1469,30.39866 -0.6218,16.16691 -14.23174,28.76871 -30.39865,28.1469 -15.71896,-0.60457 -28.15436,-13.51581 -28.16854,-29.24638"
+         sodipodi:ry="29.294424"
+         sodipodi:rx="29.294424"
+         sodipodi:cy="165.95332"
+         sodipodi:cx="470.22601"
+         id="path3778"
+         style="fill:#008000;fill-opacity:1;stroke:#86f020;stroke-width:7.93678427;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:3.90000017"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 44.28571,63.255039 17.5,7.14286"
+       id="path3808"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-inactive.png"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-ydpi="24.832891" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 120,70.933609 17.14286,-5.17857"
+       id="path3810"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-inactive.png"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-ydpi="24.832891" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 62.14286,42.540752 73.21429,56.647899"
+       id="path3812"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-inactive.png"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-ydpi="24.832891" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 91.07143,51.826469 0,-17.142859"
+       id="path3814"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-inactive.png"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-ydpi="24.832891" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 109.46429,57.362179 120.53572,43.969324"
+       id="path3816"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-inactive.png"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-ydpi="24.832891" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3820"
+       width="118.21429"
+       height="118.21429"
+       x="31.428497"
+       y="28.25503"
+       ry="8.5714273"
+       rx="8.5714273"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-inactive.png"
+       inkscape:export-xdpi="24"
+       inkscape:export-ydpi="24" />
+    <path
+       inkscape:export-ydpi="24.832891"
+       inkscape:export-xdpi="24.832891"
+       style="fill:#f1d66e;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 324.84316,132.20242 -98.84116,0 0,-49.529601 c 0,-64.206278 98.84116,-64.284384 98.84116,0.68166 z"
+       id="path3921"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-active.png" />
+    <path
+       inkscape:export-ydpi="24.832891"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-active.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3923"
+       d="m 306.95114,132.02384 -63.05667,0 0,-47.718461 c 0,-42.665678 63.42061,-43.808844 63.05667,0.49195 z"
+       style="fill:url(#radialGradient3959);fill-opacity:1;stroke:#000000;stroke-width:0.99999994000000003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path3927"
+       d="M 225.29386,83.96764 263.9322,65.27981 c 6.49859,-3.75197 12.74345,3.64199 7.57614,9.59645 l -26.64278,33.96638"
+       style="fill:#e61d00;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-active.png"
+       inkscape:export-xdpi="24"
+       inkscape:export-ydpi="24" />
+    <path
+       transform="matrix(0.49138279,0,0,0.49138302,2.8193,15.805411)"
+       sodipodi:open="true"
+       sodipodi:end="9.4238769"
+       sodipodi:start="3.1800352"
+       d="m 440.95323,164.82745 a 29.294424,29.294424 0 1 1 -0.0216,1.15227"
+       sodipodi:ry="29.294424"
+       sodipodi:rx="29.294424"
+       sodipodi:cy="165.95332"
+       sodipodi:cx="470.22601"
+       id="path3929"
+       style="fill:url(#radialGradient4031);fill-opacity:1;stroke:#ff1111;stroke-width:7.93678427000000040;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:3.90000017000000020"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-active.png"
+       inkscape:export-xdpi="24"
+       inkscape:export-ydpi="24" />
+    <path
+       style="fill:#e61d00;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 325.63496,83.96764 286.99662,65.27981 c -6.49859,-3.75197 -12.74345,3.64199 -7.57614,9.59645 l 26.64278,33.96638"
+       id="path3933"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-active.png"
+       inkscape:export-xdpi="24"
+       inkscape:export-ydpi="24" />
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#radialGradient4027);fill-opacity:1;stroke:#ff1111;stroke-width:7.93678427000000040;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:3.90000017000000020"
+       id="path3935"
+       sodipodi:cx="470.22601"
+       sodipodi:cy="165.95332"
+       sodipodi:rx="29.294424"
+       sodipodi:ry="29.294424"
+       d="m 440.95323,164.82745 a 29.294424,29.294424 0 1 1 -0.0216,1.15227"
+       sodipodi:start="3.1800352"
+       sodipodi:end="9.4238769"
+       sodipodi:open="true"
+       transform="matrix(-0.49138279,0,0,0.49138302,548.10952,15.805411)"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-active.png"
+       inkscape:export-xdpi="24"
+       inkscape:export-ydpi="24" />
+    <path
+       inkscape:export-ydpi="24.832891"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-active.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3937"
+       d="m 226.05148,116.29252 18.16261,-0.12627"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="24.832891"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-active.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3939"
+       d="m 307.27161,121.26931 17.39603,-0.4311"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path3943"
+       d="M 293.35977,124.98813 281.43114,83.758724 c -1.55343,-7.341375 -11.22712,-7.043532 -12.2017,0.779951 l -7.45332,42.520595"
+       style="fill:#e61d00;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-active.png"
+       inkscape:export-xdpi="24"
+       inkscape:export-ydpi="24" />
+    <path
+       transform="matrix(-0.32846519,-0.3654691,-0.36546928,0.32846534,492.76915,244.89192)"
+       sodipodi:open="true"
+       sodipodi:end="9.4238769"
+       sodipodi:start="3.1800352"
+       d="m 440.95323,164.82745 a 29.294424,29.294424 0 1 1 -0.0216,1.15227"
+       sodipodi:ry="29.294424"
+       sodipodi:rx="29.294424"
+       sodipodi:cy="165.95332"
+       sodipodi:cx="470.22601"
+       id="path3945"
+       style="fill:url(#radialGradient4029);fill-opacity:1;stroke:#ff1111;stroke-width:7.93678427000000040;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:3.90000017000000020"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-active.png"
+       inkscape:export-xdpi="24"
+       inkscape:export-ydpi="24" />
+    <path
+       inkscape:export-ydpi="24.832891"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-active.png"
+       inkscape:connector-curvature="0"
+       id="path3947"
+       d="m 229.28571,63.255039 17.5,7.14286"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="24.832891"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-active.png"
+       inkscape:connector-curvature="0"
+       id="path3949"
+       d="m 305,70.933609 17.14286,-5.17857"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="24.832891"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-active.png"
+       inkscape:connector-curvature="0"
+       id="path3951"
+       d="m 247.14286,42.540752 11.07143,14.107147"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="24.832891"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-active.png"
+       inkscape:connector-curvature="0"
+       id="path3953"
+       d="m 276.07143,51.826469 0,-17.142859"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="24.832891"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-active.png"
+       inkscape:connector-curvature="0"
+       id="path3955"
+       d="M 294.46429,57.362179 305.53572,43.969324"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="24"
+       inkscape:export-xdpi="24"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-active.png"
+       rx="8.5714273"
+       ry="8.5714273"
+       y="28.25503"
+       x="216.4285"
+       height="118.21429"
+       width="118.21429"
+       id="rect3957"
+       style="fill:none;stroke:none" />
+    <path
+       inkscape:export-ydpi="24.832891"
+       inkscape:export-xdpi="24.832891"
+       style="fill:#f1d66e;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 516.62887,132.20242 -98.84116,0 0,-49.529601 c 0,-64.206278 98.84116,-64.284384 98.84116,0.68166 z"
+       id="path3975"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-stopped.png" />
+    <path
+       inkscape:export-ydpi="24.832891"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-stopped.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3977"
+       d="m 498.73685,132.02384 -63.05667,0 0,-47.718461 c 0,-42.665678 63.42061,-43.808844 63.05667,0.49195 z"
+       style="fill:#898989;fill-opacity:1;stroke:#000000;stroke-width:0.99999994000000003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="24.832891"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-stopped.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3991"
+       d="m 417.83719,116.29252 18.16261,-0.12627"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="24.832891"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-stopped.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3993"
+       d="m 499.05732,121.26931 17.39603,-0.4311"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="24.832891"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-stopped.png"
+       inkscape:connector-curvature="0"
+       id="path4001"
+       d="m 421.07142,63.255039 17.5,7.14286"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="24.832891"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-stopped.png"
+       inkscape:connector-curvature="0"
+       id="path4003"
+       d="m 496.78571,70.933609 17.14286,-5.17857"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="24.832891"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-stopped.png"
+       inkscape:connector-curvature="0"
+       id="path4005"
+       d="M 438.92857,42.540752 450,56.647899"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="24.832891"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-stopped.png"
+       inkscape:connector-curvature="0"
+       id="path4007"
+       d="m 467.85714,51.826469 0,-17.142859"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="24.832891"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-stopped.png"
+       inkscape:connector-curvature="0"
+       id="path4009"
+       d="M 486.25,57.362179 497.32143,43.969324"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="24"
+       inkscape:export-xdpi="24"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-stopped.png"
+       rx="8.5714273"
+       ry="8.5714273"
+       y="28.25503"
+       x="408.2142"
+       height="118.21429"
+       width="118.21429"
+       id="rect4011"
+       style="fill:none;stroke:none" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#f02020;stroke-width:10.20862007;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:3.90000017"
+       id="path4015"
+       sodipodi:cx="476.60715"
+       sodipodi:cy="97.897896"
+       sodipodi:rx="29.464285"
+       sodipodi:ry="29.464285"
+       d="m 447.16463,96.765493 a 29.464285,29.464285 0 1 1 -0.0218,1.158952"
+       sodipodi:start="3.1800352"
+       sodipodi:end="9.4238769"
+       sodipodi:open="true"
+       transform="matrix(0.84242532,0,0,0.84242532,66.529826,10.069087)"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-stopped.png"
+       inkscape:export-xdpi="24"
+       inkscape:export-ydpi="24" />
+    <path
+       style="fill:none;stroke:#f02020;stroke-width:7.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 450.35714,108.79075 35,-33.214283"
+       id="path4019"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-stopped.png"
+       inkscape:export-xdpi="24"
+       inkscape:export-ydpi="24" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 417.83719,92.006806 18.16261,-0.12627"
+       id="path4033"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-stopped.png"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-ydpi="24.832891" />
+    <path
+       inkscape:export-ydpi="24.832891"
+       inkscape:export-xdpi="24.832891"
+       inkscape:export-filename="C:\local\home\bhu\smart-tunnel-stopped.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4035"
+       d="m 498.55148,93.435377 18.16261,-0.12627"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>

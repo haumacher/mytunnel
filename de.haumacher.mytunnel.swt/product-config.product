@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?pde version="3.5"?>
+
+<product name="MyTunnel" uid="de.haumacher.mytunnel" id="de.haumacher.mytunnel" application="de.haumacher.mytunnel.app" version="1.0.0" useFeatures="false" includeLaunchers="true">
+
+
+   <configIni use="default">
+   </configIni>
+
+   <launcherArgs>
+      <vmArgsMac>-XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts</vmArgsMac>
+   </launcherArgs>
+
+   <windowImages/>
+
+
+   <launcher name="mytunnel">
+      <solaris/>
+      <win useIco="false">
+         <bmp/>
+      </win>
+   </launcher>
+
+
+   <vm>
+      <windows include="false">org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/OSGi%Minimum-1.1</windows>
+   </vm>
+
+
+   <plugins>
+      <plugin id="com.instantiations.assist.eclipse.fragment.swt" fragment="true"/>
+      <plugin id="de.haumacher.mytunnel"/>
+      <plugin id="de.haumacher.mytunnel.swt"/>
+      <plugin id="ext.com.jcraft.jsch"/>
+      <plugin id="org.eclipse.osgi"/>
+      <plugin id="org.eclipse.swt"/>
+      <plugin id="org.eclipse.swt.win32.win32.x86_64" fragment="true"/>
+   </plugins>
+
+
+</product>

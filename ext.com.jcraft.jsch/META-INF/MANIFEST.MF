@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JSch
+Bundle-SymbolicName: ext.com.jcraft.jsch
+Bundle-Version: 0.1.51
+Bundle-Vendor: haumacher.de
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ClassPath: lib/jsch-0.1.51.jar
+Export-Package: com.jcraft.jsch,
+ com.jcraft.jsch.jce,
+ com.jcraft.jsch.jcraft,
+ com.jcraft.jsch.jgss

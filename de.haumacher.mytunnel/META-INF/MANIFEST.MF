@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: MyTunnel Core
+Bundle-SymbolicName: de.haumacher.mytunnel
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: haumacher.de
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: ext.com.jcraft.jsch;bundle-version="0.1.51"
+Export-Package: de.haumacher.mytunnel

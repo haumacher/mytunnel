@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         id="de.haumacher.mytunnel"
+         name="MyTunnel"
+         point="org.eclipse.core.runtime.products">
+         <product
+		         name="MyTunnel"
+               application="de.haumacher.mytunnel.app">
+         </product>
+   </extension>
+   <extension
+         id="de.haumacher.mytunnel.app"
+         name="MyTunnel"
+         point="org.eclipse.core.runtime.applications">
+      <application
+            cardinality="singleton-global"
+            icon="src/de/haumacher/mytunnel/swt/smart-tunnel-active.png"
+            thread="main"
+            visible="true">
+            <run
+                  class="de.haumacher.mytunnel.swt.EclipseApplication">
+            </run>
+      </application>
+   </extension>
+
+</plugin>
