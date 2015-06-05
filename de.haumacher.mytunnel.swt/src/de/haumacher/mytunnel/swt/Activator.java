@@ -19,6 +19,7 @@ package de.haumacher.mytunnel.swt;
 
 import org.osgi.framework.BundleActivator;
 import org.osgi.framework.BundleContext;
+import org.osgi.framework.BundleException;
 
 public class Activator implements BundleActivator {
 
@@ -30,10 +31,25 @@ public class Activator implements BundleActivator {
 
 	private Application _application;
 
-	public void start(BundleContext bundleContext) throws Exception {
+	public void start(final BundleContext bundleContext) throws Exception {
 		Activator.context = bundleContext;
 		
 		_application = new Application();
+		_application.setOnShutdown(new Runnable() {
+			@Override
+			public void run() {
+				new Thread(new Runnable() {
+					@Override
+					public void run() {
+						try {
+							bundleContext.getBundle(0).stop();
+						} catch (BundleException ex) {
+							ex.printStackTrace();
+						}
+					}
+				}).start();
+			}
+		});
 		_application.start();
 	}
 	

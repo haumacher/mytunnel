@@ -62,6 +62,10 @@ public class Application implements Runnable {
 
 	private Menu _menu;
 
+	Runnable _onShutdown;
+
+	private boolean _stopped;
+
 	public void start() {
 		new Thread(this, "MyTunnel UI").start();
 	}
@@ -124,13 +128,21 @@ public class Application implements Runnable {
 	}
 	
 	public void stop() {
+		if (_stopped) {
+			// Prevent "Already disposed" problem when called twice during shutdown.
+			return;
+		}
 		_display.syncExec(new Runnable () {
 			@Override
 			public void run() {
 				stopTunnels();
 				disposeUI();
+				if (_onShutdown != null) {
+					_onShutdown.run();
+				}
 			}
 		});
+		_stopped = true;
 	}
 
 	@Override
@@ -191,6 +203,10 @@ public class Application implements Runnable {
 		_inactiveImage.dispose ();
 		_disabledImage.dispose ();
 		_display.dispose ();
+	}
+
+	public void setOnShutdown(Runnable onShutdown) {
+		_onShutdown = onShutdown;
 	}
 
 }
