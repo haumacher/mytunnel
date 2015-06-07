@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyTunnel</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="addTunnel">addTunnel</string>
+    <string name="userNameTitle">User name</string>
+    <string name="hostNameTitle">Host name</string>
+    <string name="portTitle">Port</string>
+    <string name="deleteTunnelTitle">Delete</string>
+    <string name="deleteTunnelSummary">Deletes this tunnel with all of its forward settings.</string>
+    <string name="forwardsTitle">Port forwardings</string>
+
+</resources>
