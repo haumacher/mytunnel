@@ -133,6 +133,8 @@ public class DynamicProxy {
 			} finally {
 				in.close();
 			}
+		} else {
+			System.err.println("No config file found at: " + configFile.getAbsolutePath());
 		}
 		return properties;
 	}
