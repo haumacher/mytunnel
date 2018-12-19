@@ -17,14 +17,10 @@
  */
 package de.haumacher.mytunnel;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
 import java.util.Properties;
 
 public class Main {
-	
 	public static void main(String[] arg) {
-		final BufferedReader sysIn = new BufferedReader(new InputStreamReader(System.in));
 		try {
 			Properties properties = DynamicProxy.loadConfig();
 			
@@ -32,13 +28,14 @@ public class Main {
 			proxy.init(properties);
 			proxy.start();
 			
-			// Wait until signal to stop.
-			sysIn.readLine();
-			
-			proxy.stop();
+			Runtime.getRuntime().addShutdownHook(new Thread() {
+				@Override
+				public void run() {
+					proxy.stop();
+				}
+			});
 		} catch (Exception e) {
 			System.out.println(e);
 		}
 	}
-
 }
