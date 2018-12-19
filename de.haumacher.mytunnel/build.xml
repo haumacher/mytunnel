@@ -1,0 +1,21 @@
+<project name="mytunnel" basedir="." default="compile">
+
+	<target name="compile">
+		<mkdir dir="build/javac"/>
+		<javac
+			source="1.8" 
+			destdir="build/javac" 
+			srcdir="src" 
+			classpath="../ext.com.jcraft.jsch/lib/jsch-0.1.51.jar">
+		</javac>
+	</target>
+	
+	<target name="jar" depends="compile">
+		<jar destfile="build/mutunnel.jar" manifest="MANIFEST.MF">
+			<fileset dir="build/javac">
+			</fileset>
+			
+			<zipgroupfileset dir="../ext.com.jcraft.jsch/lib/" includes="*.jar" />
+		</jar>
+	</target>
+</project>
